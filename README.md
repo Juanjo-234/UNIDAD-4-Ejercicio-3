@@ -1,5 +1,5 @@
 Resolución del ejercicio N°3 de la unidad 4  de programación 2.
-1. Arquitectura del Sistema (Jerarquía y Polimorfismo)
+
 Clase Abstracta / Interfaz (CanalMensajeria):
 
 Define el contrato universal para cualquier medio de comunicación mediante el método abstracto enviarMensaje(String destinatario, String texto). Esto garantiza que cualquier canal futuro cumpla con la misma firma de envío.
